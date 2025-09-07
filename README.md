@@ -21,11 +21,12 @@
 ###
 
 ### 🛠️ Technical Skills  
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
-- **State Management**: Redux Toolkit, React Query  
-- **Backend**: Node.js, Express.js, GraphQL  
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
+- **State Management**: Redux Toolkit, TanStack Query (React Query), GraphQL  
+- **Backend**: Node.js, Express.js  
 - **Databases**: MySQL, MongoDB, PostgreSQL, Prisma  
 - **Version Control**: Git, GitHub  
+ 
 
 ###
 

@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  A <b>Full-Stack Developer</b> with expertise in <b>MERN stack</b> and <b>Next.js</b>leveraging my technical skills and passion for problem-solving.
+  A <b>Full-Stack Developer</b> with expertise in <b>MERN stack</b> and <b>Next.js</b> leveraging my technical skills and passion for problem-solving.
 </p>
 
 ###

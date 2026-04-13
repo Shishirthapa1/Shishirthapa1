@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shishir Thapa and I'm a Full Stack Developer from Nepal.</h2>
+<h2 align="left">Hi 👋! My name is Nishchal Shrestha and I'm a Full Stack Developer from Nepal.</h2>
 
 ###
 
